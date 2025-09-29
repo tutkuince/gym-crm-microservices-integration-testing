@@ -124,13 +124,6 @@
             <version>${gym-crm-contracts.version}</version>
         </dependency>
 
-        <!-- Spring test -->
-        <dependency>
-            <groupId>org.springframework.boot</groupId>
-            <artifactId>spring-boot-starter-test</artifactId>
-            <scope>test</scope>
-        </dependency>
-
         <!-- Cucumber + JUnit Platform + Spring glue -->
         <dependency>
             <groupId>io.cucumber</groupId>
